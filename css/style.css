@@ -1,0 +1,128 @@
+body{
+  margin: 0;
+  text-align: center;
+  color: #40514E;
+  font-family: sans-serif;
+}
+
+p{
+  font-family: serif;
+}
+
+h1{
+  font-size: 4.375rem;
+  margin-top: 50px;
+  margin-bottom: 0;
+  color: #66BFBF;
+  font-family:Pacifico;
+
+}
+
+h2{
+  font-size: 2.000rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+.programmer{
+
+  line-height: 2;
+}
+
+h3{
+  color:#11999E;
+}
+
+a{
+  color:#11999E;
+  text-decoration: none;
+  margin: 10px;
+  font-size: 1rem;
+
+}
+
+a:hover{
+  color: white;
+}
+
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+.profile{
+  width: 50%;
+  margin: 50px auto 50px auto;
+}
+
+
+.skill-row{
+  width: 30%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+
+.pro{
+  text-decoration: underline;
+}
+
+.top-container{
+padding-top: 100px;
+background-color: #E4F9F5;
+position: relative;
+}
+
+.middle-container{
+  margin: 100px 0;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 500px;
+  top: 50px
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 500px;
+  bottom: 300px;
+}
+
+.code_img{
+  width:25%;
+  float: left;
+  margin-right: 30px;
+}
+.ui_img{
+  width:25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.btn{
+  background-color:#11999E;
+  color: white;
+  padding: 10px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 10px;
+}
+
+.contact-me{
+  margin: 20px auto 40px auto;
+}
+
+.bottom-container{
+  padding: 30px;
+  background-color:#66BFBF ;
+}
+
+.copyrights{
+  color: white;
+  margin-top: 25px;
+  font-size: 0.85rem;
+}
